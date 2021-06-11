@@ -1,3 +1,11 @@
+https://github.com/asackmann/login-python-flask-MySQL
+https://codeshack.io/login-system-python-flask-mysql/
+
+
+# Azure rg
+
+https://portal.azure.com/#@biapplications.com.ar/resource/subscriptions/93039241-2d07-449b-b151-1d0039df39c4/resourceGroups/amgchallenge/providers/Microsoft.Web/sites/amgchallengetest/appServices
+
 # login-Python-Flask-MySQL
 Login module in web-application using Python, Flask and MySQL
 
